@@ -1,0 +1,107 @@
+#{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: "Young Serif", serif;
+   
+  }
+  .container{
+    padding: 50px;
+    text-align: center;
+
+  }
+  .section-one{
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    margin: 10px;
+  }
+  .section0-one__disc{
+    color: blanchedalmond;
+  }
+  .section-one__title{
+    font-size: 60px;
+  }
+  .section0-one__disc{
+    font-size: 30px;
+  }
+ .section-two__img,.section-three__img,.section-four__img,.section-five__img{
+    height: 250px;
+    width: 150px;
+
+  }
+  .section-two,.section-three,.section-four,.section-five{
+    background-color: aqua;
+    color: black;
+    padding: 10px;
+    display:inline-block;
+    height: 700px;
+    width: 250px;
+    vertical-align: top;
+    border: solid black 2px;
+    margin-top: 40px;
+
+  }
+.section-two__price{
+    padding: 35px;
+  }
+  .section-three__price{
+    padding:30px ;
+  }
+  .section-four__price{
+    padding: 15px;
+  }
+  .section-five__price{
+    padding: 35px;
+  }
+ .section-five__button{
+    padding: 10px;
+    margin:10px;
+    background-color:orange;
+    color: black;
+    font-family:"Young Serif", serif;
+;
+   
+ }
+ .section-four__button{
+    padding: 10px;
+    margin: 27px;
+    background-color:orange;
+    color: black;
+    font-family:"Young Serif", serif;
+ }
+ .section-two__button{
+    padding: 10px;
+    margin-bottom:0px ;
+    background-color:orange;
+    color: black;
+    font-family:"Young Serif", serif;
+ }
+ .section-three__button{
+    padding: 10px;
+    margin: 10px; 
+    background-color:orange;
+    color: black;
+    font-family:"Young Serif", serif;
+ }
+.reestar-form{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  margin-left:65px;
+  margin-right: 65px;
+  margin-top: 5px;
+  
+  
+}
+.reestar-form__lable{
+  padding-left: 550px;
+}
+.reestar-form__desc{
+  background-color: orangered;color: beige;
+  margin-right: 400px;
+  margin-left: 400px;
+}
+
