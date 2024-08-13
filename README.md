@@ -20,7 +20,8 @@ Welcome to the Reestar Website Projects repository! This project contains two we
 .HTML5: For structuring the content of the websites.
 .CSS3: For styling and layout.
 ## Code link:
- https://abishekm1.github.io/reestar-simple-website-2/
+ https://abishekmurugan1.github.io/reestar-simple-website-2/
+
 ## Contributing
 If you have suggestions or improvements, feel free to submit a pull request or open an issue. All contributions are welcome!
 
